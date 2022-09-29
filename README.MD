@@ -135,7 +135,7 @@
 - [ ] Write a component to display a form updating at least a campus's name and address
 - [ ] Display this component as part of the campus view
 
-**Submitting the form with valid data should:**
+*Submitting the form with valid data should:*
 - [ ] Make an AJAX request that causes that campus to be updated in the database
 - [ ] Update the campus in the current view without needing to refresh the page
 
@@ -146,7 +146,7 @@
 - [ ] Write a component to display a form updating a student
 - [ ] Display this component as part of the student view
 
-**Submitting the form with valid data should:**
+*Submitting the form with valid data should:*
 - [ ] Make an AJAX request that causes that student to be updated in the database
 - [ ] Update the student in the current view without needing to refresh the page
 </details>
